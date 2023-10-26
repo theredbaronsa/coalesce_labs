@@ -12,19 +12,19 @@ locations:
   SAMPLE:
     mappingDefinitions:
       "2":
-        database: ""
-        schema: ""
+        database: SNOWFLAKE_SAMPLE_DATA
+        schema: TPCH_SF1
       "3":
-        database: ""
-        schema: ""
+        database: SNOWFLAKE_SAMPLE_DATA
+        schema: TPCH_SF1
   WORK:
     mappingDefinitions:
       "2":
-        database: ""
-        schema: ""
+        database: PC_COALESCE_DB
+        schema: TEST
       "3":
-        database: ""
-        schema: ""
+        database: PC_COALESCE_DB
+        schema: PROD
 macros: {}
 packages: {}
 projects: {}
